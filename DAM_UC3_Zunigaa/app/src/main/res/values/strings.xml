@@ -8,4 +8,9 @@
     <string name="textView5">Return</string>
     <string name="textView3">Destination</string>
     <string name="textView2">Origin</string>
+    <string name="ButtonVuelos">Vuelos</string>
+    <string name="buttonPaquetes">Paquetes</string>
+    <string name="buttonHoteles">Hoteles</string>
+    <string name="buttonAutos">Autos</string>
+    <string name="buttonSeguros">Seguros</string>
 </resources>
