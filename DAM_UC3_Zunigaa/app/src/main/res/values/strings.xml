@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DAM_UC3_Zunigaa</string>
+    <string name="buttonMain">Search flights</string>
+    <string name="CheckBox">Use your miles + cash</string>
+    <string name="textView7">1 Adult</string>
+    <string name="textView6">Economy</string>
+    <string name="textView4">Departure</string>
+    <string name="textView5">Return</string>
+    <string name="textView3">Destination</string>
+    <string name="textView2">Origin</string>
+</resources>
